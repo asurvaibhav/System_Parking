@@ -1,0 +1,6 @@
+{
+  "name": "CPVTS - Campus Parking & Vehicle Tracking System",
+  "description": "Desktop campus parking and vehicle tracking system for security guards. Automated slot allocation, live occupancy, ticket QR generation, and tariff billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

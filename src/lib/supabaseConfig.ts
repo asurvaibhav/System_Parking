@@ -1,0 +1,2 @@
+export const SUPABASE_URL = 'PASTE_URL_HERE';
+export const SUPABASE_ANON_KEY = 'PASTE_ANON_KEY_HERE';
